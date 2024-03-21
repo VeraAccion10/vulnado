@@ -1,4 +1,4 @@
-s,mdfc.cscfsfcdvcsalfavsfsfdddnado - Intentionally Vulnerable Java Application
+s,mdfc.cscfsfcdvcsalfavsfsfdddnado - Intentionally Vulnerable Java Application1
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccczdcxsz
 
