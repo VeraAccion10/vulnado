@@ -1,4 +1,4 @@
-mknjfgfg,m.k;ksmlds.mn,kmlmadadfkmdcdfdfdfsfdddnado - Intentionally Vulnerable Java Application
+jcn sk dc cdmknjfgfg,m.k;ksmlds.mn,kmlmadadfkmdcdfdfdfsfdddnado - Intentionally Vulnerable Java Application
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccczdcxsz
 
